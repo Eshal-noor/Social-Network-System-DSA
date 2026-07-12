@@ -1,0 +1,9 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+  <qresource prefix="/">
+    <file>images/waseem.jpg</file>
+    <file>images/eshal.jpg</file>
+    <file>images/mohsin.jpg</file>
+    <file>images/tawheed.jpg</file>
+  </qresource>
+</RCC>
