@@ -1,0 +1,18 @@
+# Qt build files
+build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# compiled files
+*.o
+*.obj
+*.exe
+
+# Qt user files
+*.user
+*.pro.user
+
+# macOS
+.DS_Store
