@@ -2,7 +2,6 @@
 #include<string>
 using namespace std;
 
-
 // ================================================
 //   SOCIAL NETWORK PLATFORM
 //   DSA Project - Semester 2
