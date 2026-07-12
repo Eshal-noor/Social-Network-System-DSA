@@ -41,11 +41,15 @@ The purpose of this project is to practically implement core Data Structures and
 
 ## 👥 Project Contributors
 
+---
+
+## 👥 Project Contributors
+
 <table align="center">
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/waseemrehman7/CPP-DSA-Practice-Project-Console-plus-Qt-GUI/main/qt-version/images/eshal.jpg" width="120px" style="border-radius: 50%; border: 2px solid #4CAF50;" alt="Eshal Noor"/><br />
-      <sub><b>Eshal Noor (Lead)</b></sub>
+      <sub><b>Eshal Noor</b></sub>
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/waseemrehman7/CPP-DSA-Practice-Project-Console-plus-Qt-GUI/main/qt-version/images/waseem.jpg" width="100px" style="border-radius: 50%;" alt="Waseem ur Rehman"/><br />
@@ -55,5 +59,7 @@ The purpose of this project is to practically implement core Data Structures and
       <img src="https://raw.githubusercontent.com/waseemrehman7/CPP-DSA-Practice-Project-Console-plus-Qt-GUI/main/qt-version/images/mohsin.jpg" width="100px" style="border-radius: 50%;" alt="Mohsin Ehsan"/><br />
       <sub><b>Mohsin Ehsan</b></sub>
     </td>
+  </tr>
+</table>
   </tr>
 </table>
