@@ -41,10 +41,6 @@ The purpose of this project is to practically implement core Data Structures and
 
 ## 👥 Project Contributors
 
----
-
-## 👥 Project Contributors
-
 <table align="center">
   <tr>
     <td align="center">
